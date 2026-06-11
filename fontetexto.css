@@ -1,0 +1,24 @@
+body
+{
+background-color:black;
+font-family:arcial sans serif;
+color:white;
+}
+
+h1
+{font-size:70px;
+text-align:center;
+text-shadow: 4px 4px 3px red;
+}
+
+h2
+{font-size:33px;
+text-align:left;
+text-shadow: 3px 3px 4px red;
+}
+
+p
+{
+font-size:20px;
+text-align:justify;
+}
